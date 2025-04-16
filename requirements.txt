@@ -1,4 +1,4 @@
-APSheduler==3.6.3
+APScheduler==3.6.3
 anyio==4.1.0
 certifi==2024.2.2
 cffi==1.16.0
